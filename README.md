@@ -24,3 +24,10 @@ You can click the Preview link to take a look at your changes.
 Acá comenzamos a escribir sobre el uso y los beneficios de aprender Bash Scripting y Python Scripting desde cero, ya que soy un aprendiz nuevo en este tema, iré tomando nota de lo que aprenda en mi dia a día laboral.
 
 
+########
+[google]
+   2   │ type = drive
+   3   │ scope = drive
+   4   │ token = {"access_token":"ya29.a0AfH6SMDNZemJmiILytK1AFYtB8wdpC3W55iMBwof3YB_9g4Nf9UrHGvsn40cgIk-wHzCfzbzrlNGye_rZeD3Kc50xnlrLUxyDA0r_kIxOmUy
+       │ mbQNCZ1Rd6yMUcua4SJe3iZn-4cyhH2WbjyGszWt4BmfVVDN","token_type":"Bearer","refresh_token":"1//05HVD-7VVNbtlCgYIARAAGAUSNwF-L9IrcR8_0BbbTqM2TmH
+       │ qwEJ2FBfGtQqSSoJs73REU1lBqlh2OPOSZFM5MpkObIz-UIMfh0o","expiry":"2021-03-19T11:57:02.438448032-05:00"}
